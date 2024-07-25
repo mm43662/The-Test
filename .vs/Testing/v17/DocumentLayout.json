@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Testing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|c:\\users\\hp\\source\\repos\\testing\\testing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|solutionrelative:testing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|c:\\users\\hp\\source\\repos\\testing\\testing\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|solutionrelative:testing\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|c:\\users\\hp\\source\\repos\\testing\\testing\\model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|solutionrelative:testing\\model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|c:\\users\\hp\\source\\repos\\testing\\testing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|solutionrelative:testing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|c:\\users\\hp\\source\\repos\\testing\\testing\\confuguration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|solutionrelative:testing\\confuguration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|c:\\users\\hp\\source\\repos\\testing\\testing\\model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|solutionrelative:testing\\model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|c:\\users\\hp\\source\\repos\\testing\\testing\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|solutionrelative:testing\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|C:\\Users\\HP\\source\\repos\\Testing\\testing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|solutionrelative:testing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|c:\\users\\hp\\source\\repos\\testing\\testing\\confuguration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A8299F-965F-4195-9868-0EBEB1F42536}|Testing\\Testing.csproj|solutionrelative:testing\\confuguration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,20 +34,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 176,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Testing\\Testing\\Form1.cs",
+              "RelativeDocumentMoniker": "Testing\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Testing\\Testing\\Form1.cs [Design]",
+              "RelativeToolTip": "Testing\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:41:05.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Testing\\Testing\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Testing\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Testing\\Testing\\Form1.Designer.cs",
               "RelativeToolTip": "Testing\\Form1.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFUAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:43:58.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T13:39:53.783Z"
             },
             {
               "$type": "Document",
@@ -57,40 +68,39 @@
               "RelativeDocumentMoniker": "Testing\\Model\\Model.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Testing\\Testing\\Model\\Model.cs",
               "RelativeToolTip": "Testing\\Model\\Model.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T07:01:01.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T07:01:01.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Testing\\Testing\\Form1.cs",
               "RelativeDocumentMoniker": "Testing\\Form1.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Testing\\Testing\\Form1.cs",
               "RelativeToolTip": "Testing\\Form1.cs",
-              "ViewState": "AQIAAH4AAABAMzMzMzMwwH8AAAAaAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T06:56:01.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Testing\\Testing\\Service\\Service.cs",
               "RelativeDocumentMoniker": "Testing\\Service\\Service.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Testing\\Testing\\Service\\Service.cs",
               "RelativeToolTip": "Testing\\Service\\Service.cs",
-              "ViewState": "AQIAAA8AAAAAmZmZmZkBwBcAAAARAAAA",
+              "ViewState": "AQIAAKgAAADAlJmZmZklwKkAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T06:51:18.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Testing\\Testing\\Confuguration\\Configuration.cs",
               "RelativeDocumentMoniker": "Testing\\Confuguration\\Configuration.cs",
@@ -98,20 +108,7 @@
               "RelativeToolTip": "Testing\\Confuguration\\Configuration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T06:49:58.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Testing\\Testing\\Form1.cs",
-              "RelativeDocumentMoniker": "Testing\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Testing\\Testing\\Form1.cs [Design]",
-              "RelativeToolTip": "Testing\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T06:42:16.695Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-24T06:49:58.997Z"
             }
           ]
         }

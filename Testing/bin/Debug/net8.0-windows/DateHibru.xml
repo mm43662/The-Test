@@ -14,12 +14,18 @@
     <Year>תשפ"ד</Year>
     <Result>באחד בשבת בשבת יום אחד לירח 1 חמשת אלפים ושבע מאות ושמנים וארבע</Result>
   </Query>
- 
   <Query>
     <Day>ראשון</Day>
     <DayMonth>1</DayMonth>
     <Month>תשרי</Month>
     <Year>תשפ"ד</Year>
     <Result>באחד בשבת בשבת יום אחד לירח תשרי חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>שני</Day>
+    <DayMonth>2</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ"ד</Year>
+    <Result>בשני  בשבת שני ימים לירח תשרי חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</Result>
   </Query>
 </Queries>

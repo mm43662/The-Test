@@ -83,7 +83,7 @@
             AddDateBtn.TabIndex = 4;
             AddDateBtn.Text = "להוספת התאריך";
             AddDateBtn.UseVisualStyleBackColor = true;
-            AddDateBtn.Click += CreateNewModelDate;
+            AddDateBtn.Click += SendDateToService;
             // 
             // label1
             // 
